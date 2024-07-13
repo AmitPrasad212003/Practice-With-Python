@@ -10,7 +10,7 @@ Welcome to the Python Practice Questions and Solutions repository! This reposito
 - [Chapters](#chapters)
   - [Chapter 1: Introduction to Python](#chapter-1-introduction-to-python)
   - [Chapter 2: Data Types and Variables](#chapter-2-data-types-and-variables)
-  - [Chapter 3: Control Flow](#chapter-3-control-flow)
+  - [Chapter 3: String ](#chapter-3-String)
   - [Chapter 4: Functions](#chapter-4-functions)
   - [Chapter 5: Data Structures](#chapter-5-data-structures)
   - [Chapter 6: Object-Oriented Programming](#chapter-6-object-oriented-programming)
